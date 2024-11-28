@@ -1,0 +1,21 @@
+{
+  "latest_version": "0.4.1",
+  "minimum_version": "0.4.0",
+  "applications": {
+    "create": {
+      "download_url": "https://github.com/Igrekess/sbmp-update/raw/main/releases/v0.4.1/StoryboardMakerPro-Create.zip",
+      "checksum": "sha256-hash-create",
+      "size": "size-in-bytes"
+    },
+    "setup": {
+      "download_url": "https://github.com/Igrekess/sbmp-update/raw/main/releases/v0.4.1/StoryboardMakerPro-Setup.zip",
+      "checksum": "sha256-hash-setup",
+      "size": "size-in-bytes"
+    },
+    "export": {
+      "download_url": "https://github.com/Igrekess/sbmp-update/raw/main/releases/v0.4.1/StoryboardMakerPro-Export.zip",
+      "checksum": "sha256-hash-export",
+      "size": "size-in-bytes"
+    }
+  }
+}
