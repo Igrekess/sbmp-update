@@ -8,7 +8,7 @@
       "size": "size-in-bytes"
     },
     "setup": {
-      "download_url": "https://github.com/Igrekess/sbmp-update/raw/main/releases/v0.8.0/StoryboardMakerPro-Setup.zip",
+      "download_url": "https://github.com/Igrekess/sbmp-update/raw/main/releases/v0.8.0/StoryboardMakerPro-Settings.zip",
       "checksum": "sha256-hash-setup",
       "size": "size-in-bytes"
     },
